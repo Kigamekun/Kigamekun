@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently A **Programmer (Web Developer, ML Engineer and Android Developer)**
 
-- 👨‍💻 All of my projects are available at [https://thunderous-strudel-a3a041.netlify.app/projects](https://thunderous-strudel-a3a041.netlify.app/projects)
+- 👨‍💻 All of my projects are available at [MyProjects](https://thunderous-strudel-a3a041.netlify.app/projects)
 
 - 📫 How to reach me **reksa.prayoga1012@gmail.com**
 
-- 📄 Know about my experiences [https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf](https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf)
+- 📄 Know about my experiences [MyCV](https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf)
 
-- 🌍 Just on another Isekai with Ruka Sarashina in my website [https://thunderous-strudel-a3a041.netlify.app](MyWeb) ( Temporary )
+- 🌍 Just on another Isekai with Ruka Sarashina in my website [MyWeb](https://thunderous-strudel-a3a041.netlify.app) ( Temporary )
 
 
 <br>
