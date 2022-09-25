@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently A **Programmer (Web Developer, ML Engineer and Android Developer)**
 
-- 👨‍💻 All of my projects are available at [cv.kigamekun.my.id](cv.hamsterkaget.my.id)
+- 👨‍💻 All of my projects are available at [https://thunderous-strudel-a3a041.netlify.app/projects](https://thunderous-strudel-a3a041.netlify.app/projects)
 
 - 📫 How to reach me **reksa.prayoga1012@gmail.com**
 
-- 📄 Know about my experiences [cv.kigamekun.my.id](cv.kigamekun.my.id)
+- 📄 Know about my experiences [https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf](https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf)
 
-- 🌍 Just on another Isekai with Ruka Sarashina
+- 🌍 Just on another Isekai with Ruka Sarashina in my website [https://thunderous-strudel-a3a041.netlify.app] ( Temporary )
 
 
 <br>
