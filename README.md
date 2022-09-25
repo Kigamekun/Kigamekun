@@ -25,6 +25,8 @@
 - 🌍 Just on another Isekai with Ruka Sarashina
 
 
+<br>
+<br>
 <p align="right"><img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight" alt="Top Lang">
 <img align="left" style="margin-top:135px;" src="https://github-readme-stats.vercel.app/api?username=Kigamekun&show_icons=true&theme=tokyonight" alt="Kigamekun github stats">
 </p>
