@@ -38,10 +38,13 @@
 
 ### Hello My Name Is Reksa Prayoga Syahputra !
 
+##### Who like Anime, Logic, Programming, Math and Physics.
+
+</center>
+
 <hr>
 
-##### Who like Anime, Logic, Programming, Math and Physics.
-</center>
+
 
 <br>
 
