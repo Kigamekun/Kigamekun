@@ -1,52 +1,76 @@
+
+<img src="https://i.imgur.com/l1qNZ9z.png">
+
+<center>
+
 ### Hajimemashite :fox_face: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **Kigamekun/Kigamekun** is a ✨ _programmer repository_ ✨  
 
 
-<ceenter>
 
 # **_Kigamekun A.K.A Reksa Prayoga S_**
+
 </center>
- 
- <p align="center">
+
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight&layout=compact&langs_count=10" alt="kigamekun" /></p>
+
+- 🌱 I’m currently A **Programmer (Web Developer, ML Engineer and Android Developer)**
+
+- 👨‍💻 All of my projects are available at [cv.kigamekun.my.id](cv.hamsterkaget.my.id)
+
+- 📫 How to reach me **reksa.prayoga1012@gmail.com**
+
+- 📄 Know about my experiences [cv.kigamekun.my.id](cv.kigamekun.my.id)
+
+- 🌍 Just on another Isekai with Ruka Sarashina
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Kigamekun&show_icons=true&theme=tokyonight" alt="Kigamekun github stats">
-  
-
+<p align="right"><img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight" alt="Top Lang">
+<img align="left" style="margin-top:135px;" src="https://github-readme-stats.vercel.app/api?username=Kigamekun&show_icons=true&theme=tokyonight" alt="Kigamekun github stats">
 </p>
 
- 
- <p align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight" alt="Top Lang">
-
-
-</p>
+<br>
+<center>
 
 
+### Hello My Name Is Reksa Prayoga Syahputra !
 
-# Hello My Name Is Reksa Prayoga Syahputra !
-### who like anime , logic , programming , math and physics
+<hr>
+
+##### Who like Anime, Logic, Programming, Math and Physics.
+</center>
+
+<br>
+
+Fullstack developer specialist in web and android device development, has the ability to think critically and problem solving I'm sure whatever the problem there is a solution.
+Python, GO, Javascript and PHP as programming languages ​​that are often used and also the most widely mastered laravel framework.
+
+using the latest technology is my vision and mission to be able to build industry 5.0 in Indonesia.
+
+<br>
 
 <div align="center">
 <h3 align="center">My Workspace</h3>
  <center>
+
 <table align="center" style="border:none;">
- <tr>
-  <td>
+ <tr style="border:none;">
+  <td style="border:none;">
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
    </td>
-    <td> 
+    <td style="border:none;"> 
  <img src="https://img.shields.io/badge/AMD-Ryzen_3_3250U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 3">
      </td>
-      <td>
+      <td style="border:none;">
  <img src="https://img.shields.io/badge/linux-ACER_Aspire_3-0078D6?style=for-the-badge&logo=linux&logoColor=white" alt="Acer">
       </td>
-       <td>
+       <td style="border:none;">
  <img src="https://img.shields.io/badge/AMD-Radeon_Vega_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
         </td>
 </tr>
 </table>
+ <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KIGAMEKUN&theme=tokyonight" /> <br> </p>
    </center>
 </div>
 
