@@ -151,6 +151,12 @@ using the latest technology is my vision and mission to be able to build industr
 <hr>
 
 <h3 align="center">More :</h3>
+<p style="text-align:center;">
+
+[![@kigamekun's Holopin board](https://holopin.io/api/user/board?user=kigamekun)](https://holopin.io/@kigamekun)
+
+</p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kigamekun&label=Profile%20views&color=0e75b6&style=flat" alt="Kigamekun" /> <a href="https://twitter.com/KICODE3" target="blank"> <br> <img src="https://img.shields.io/twitter/follow/KICODE3?logo=twitter&style=for-the-badge" alt="KICODE3" /></a></p>
 </p>
