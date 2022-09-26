@@ -100,6 +100,8 @@ using the latest technology is my vision and mission to be able to build industr
 
 > ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+> ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 > ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 </details>
@@ -110,6 +112,10 @@ using the latest technology is my vision and mission to be able to build industr
 <summary>Backend Framework</summary>
 
 > ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+> ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+> ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 > ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
