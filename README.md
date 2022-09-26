@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [MyCV](https://thunderous-strudel-a3a041.netlify.app/assets/file/CVREKSAPRAYOGAS(ENG).pdf)
 
-- 🌍 Just on another Isekai with Ruka Sarashina in my website [MyWeb](https://thunderous-strudel-a3a041.netlify.app) ( Temporary )
+- 🌍 Just on another Isekai with Ruka Sarashina in my website [MyWeb](https://thunderous-strudel-a3a041.netlify.app)  ( Temporary )
 
 
 <br>
